@@ -1,0 +1,6 @@
+torch
+transformers>=4.56
+opencv-python
+pillow
+numpy
+certifi
