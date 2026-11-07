@@ -6,6 +6,10 @@ Built and tested on an Apple Silicon Mac (it uses the GPU through PyTorch's MPS 
 
 > Only use this on pictures and videos that you own or have permission to edit.
 
+## Screenshots
+
+![Main window](screenshots/main-window.png)
+
 ## How it works
 
 1. **Detect** – Microsoft's [Florence-2](https://huggingface.co/florence-community) is asked to find the "watermark" in the picture and returns bounding boxes.
